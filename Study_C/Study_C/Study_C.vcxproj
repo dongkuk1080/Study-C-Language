@@ -140,12 +140,25 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2 Variable.c" />
+    <ClCompile Include="condition.c" />
+    <ClCompile Include="Credit.c" />
     <ClCompile Include="DataType.c" />
     <ClCompile Include="HelloWorld.c" />
     <ClCompile Include="int and char.c" />
-    <ClCompile Include="int changing.cpp" />
+    <ClCompile Include="int changing.c" />
+    <ClCompile Include="Logic.c" />
     <ClCompile Include="overflow.c" />
+    <ClCompile Include="plus plus.c" />
     <ClCompile Include="Variation.c" />
+    <ClCompile Include="Get Second.c" />
+    <ClCompile Include="Complicated.c" />
+    <ClCompile Include="Relation.c" />
+    <ClCompile Include="multiple.c" />
+    <ClCompile Include="if abs.c" />
+    <ClCompile Include="1부터 1000까지의 합.c" />
+    <ClCompile Include="사각형출력하기.c" />
+    <ClCompile Include="피라미드 출력하기.c" />
+    <ClCompile Include="윤년 판독 프로그램.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

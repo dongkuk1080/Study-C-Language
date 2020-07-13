@@ -33,7 +33,46 @@
     <ClCompile Include="int and char.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="int changing.cpp">
+    <ClCompile Include="int changing.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Get Second.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="plus plus.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Complicated.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Relation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Logic.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="condition.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="multiple.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if abs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="윤년 판독 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1부터 1000까지의 합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="사각형출력하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="피라미드 출력하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

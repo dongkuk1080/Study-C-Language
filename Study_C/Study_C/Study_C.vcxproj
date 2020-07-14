@@ -85,7 +85,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1월 1일부터 현재날짜까지의 날짜차이를 구하기.c" />
     <ClCompile Include="2 Variable.c" />
     <ClCompile Include="condition.c" />
     <ClCompile Include="Credit.c" />
@@ -157,6 +158,14 @@
     <ClCompile Include="if abs.c" />
     <ClCompile Include="1부터 1000까지의 합.c" />
     <ClCompile Include="사각형출력하기.c" />
+    <ClCompile Include="간단한 계산기 프로그램.c" />
+    <ClCompile Include="재귀함수로 조합 구현하기.c" />
+    <ClCompile Include="특정한 문자열을 재귀함수반복 출력하기.c" />
+    <ClCompile Include="숫자 피라미드 출력하기.c" />
+    <ClCompile Include="화폐의 개수를 가장 적게 주는 방법 프로그램.c" />
+    <ClCompile Include="시간 더하기 프로그램.c" />
+    <ClCompile Include="특정한 단의 구구단을 출력하는 프로그램.c" />
+    <ClCompile Include="정해진 개수의 정수를 더하는 프로그램.c" />
     <ClCompile Include="피라미드 출력하기.c" />
     <ClCompile Include="윤년 판독 프로그램.c" />
   </ItemGroup>

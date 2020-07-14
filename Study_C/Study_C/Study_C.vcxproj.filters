@@ -75,5 +75,32 @@
     <ClCompile Include="피라미드 출력하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="간단한 계산기 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정해진 개수의 정수를 더하는 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="특정한 단의 구구단을 출력하는 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="시간 더하기 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="화폐의 개수를 가장 적게 주는 방법 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1월 1일부터 현재날짜까지의 날짜차이를 구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 피라미드 출력하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="특정한 문자열을 재귀함수반복 출력하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수로 조합 구현하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

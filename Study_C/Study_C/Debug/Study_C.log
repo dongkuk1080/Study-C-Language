@@ -1,2 +1,5 @@
-﻿  피라미드 출력하기.c
+﻿  재귀함수로 조합 구현하기.c
+D:\Study\Github\Study-C-Language\Study_C\Study_C\재귀함수로 조합 구현하기.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  특정한 문자열을 재귀함수반복 출력하기.c
+  코드를 생성하고 있습니다...
   Study_C.vcxproj -> D:\Study\Github\Study-C-Language\Study_C\Debug\Study_C.exe

@@ -132,5 +132,47 @@
     <ClCompile Include="strcpy%28%29.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="학생 정보 구조체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="학생정보 구조체 활용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="두 점 사이의 거리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="사각형의 넓이와 둘레를 구하는 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 비교.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="텍스트 파일 읽기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="텍스트 파일 분석.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적 메모리 기초 예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적메모리로 알파벳 출력하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적 메모리로 정수 5개 처리하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 동적 메모리 할당.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적 메모리 2차원 배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
